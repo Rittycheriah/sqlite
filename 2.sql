@@ -1,1 +1,1 @@
-ELECT FirstName,LastName,CustomerId,Country FROM Customer WHERE (Country LIKE 'Brazil')
+SELECT * FROM Customer WHERE (Country LIKE 'Brazil')
